@@ -1,6 +1,6 @@
 CREATE DATABASE setAssignmnet1;
 USE setAssignmnet1
-
+SHOW DATABASES
 Problem1:
 mysql> CREATE TABLE Customers (
     ->     id INT AUTO_INCREMENT PRIMARY KEY,
